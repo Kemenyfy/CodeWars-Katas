@@ -1,6 +1,6 @@
 using System;
 
-public class Kata
+public class KataSeries3
 {
   public static string Remove(string s)
   {

@@ -1,4 +1,4 @@
-public class Kata
+public class KataSeries4
 {
     public static string Remove(string s)
     {
