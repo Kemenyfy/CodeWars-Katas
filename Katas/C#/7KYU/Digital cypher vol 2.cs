@@ -1,4 +1,4 @@
-public class Kata
+public class DigitalCypherVol2
 {
     public static string Decode(int[] code, int n)
     {
