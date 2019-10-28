@@ -7,5 +7,4 @@ public class Kata
   {
     return Regex.Replace(str, @"[_-](\w)", m => m.Groups[1].Value.ToUpper());
   }
-  
 }
