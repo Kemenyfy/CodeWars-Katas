@@ -1,0 +1,1 @@
+const inviteMoreWomen = (L) => L.reduce((a, b) => a + b, 0) > 0
