@@ -4,8 +4,9 @@
     "\\Katas",
     "\\Katas\\C#",
     "\\Katas\\C#\\8KYU",
-    "\\Katas\\JavaScript"
+    "\\Katas\\JavaScript",
+    "\\Katas\\JavaScript\\8KYU"
   ],
-  "SelectedNode": "\\Katas\\C#\\8KYU\\Multiple of index.cs",
+  "SelectedNode": "\\Katas\\C#\\8KYU\\Simple validation of a username with regex.cs",
   "PreviewInSolutionExplorer": false
 }
