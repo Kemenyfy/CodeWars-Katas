@@ -1,3 +1,5 @@
 # Codewars Katas
 
-Based by Language
+Based by Programming Language
+
+Feel free to reach out to me. 
