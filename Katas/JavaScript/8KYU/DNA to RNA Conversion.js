@@ -1,7 +1,7 @@
 const DNAtoRNA = (dna) => dna.replace(/T/g, "U")
 
-Same Solution:
+//Same Solution:
 
-function DNAtoRNA(dna) {
-  return dna.replace(/T/g, "U")
-}
+//function DNAtoRNA(dna) {
+//  return dna.replace(/T/g, "U")
+//}
