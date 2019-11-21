@@ -2,10 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Katas",
+    "\\Katas\\C#",
     "\\Katas\\C#\\4KYU",
+    "\\Katas\\C#\\8KYU",
     "\\Katas\\JavaScript",
     "\\Katas\\JavaScript\\8KYU"
   ],
-  "SelectedNode": "\\Katas\\JavaScript\\8KYU\\Sort and Star.js",
+  "SelectedNode": "\\Katas\\C#\\8KYU\\Sum Arrays.cs",
   "PreviewInSolutionExplorer": false
 }
