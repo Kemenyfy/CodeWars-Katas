@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Katas",
+    "\\Katas\\JavaScript",
+    "\\Katas\\JavaScript\\6KYU",
+    "\\Katas\\JavaScript\\8KYU"
   ],
+  "SelectedNode": "\\Katas\\JavaScript\\6KYU\\Multiples of 3 or 5.js",
   "PreviewInSolutionExplorer": false
 }
