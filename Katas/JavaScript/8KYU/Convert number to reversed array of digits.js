@@ -1,0 +1,1 @@
+const digitize = (n) => n.toString().split("").reverse().map(function (t) { return parseInt(t) })
